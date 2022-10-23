@@ -16,35 +16,35 @@
 // :: Mapping between Ergobox switches (on the PCB) and GPIO pins.
 //    Set pin to -1 to disable.
 
-#define ERGOBOX_LEFT_PIN        39
-#define ERGOBOX_DOWN_PIN        38
-#define ERGOBOX_RIGHT_PIN       37
-#define ERGOBOX_UP_PIN          36
+#define ERGOBOX_LEFT_PIN        27
+#define ERGOBOX_DOWN_PIN        26
+#define ERGOBOX_RIGHT_PIN       25
+#define ERGOBOX_UP_PIN          16
 
-#define ERGOBOX_P1_PIN          32
-#define ERGOBOX_P2_PIN          31
-#define ERGOBOX_P3_PIN          30
-#define ERGOBOX_P4_PIN          29
+#define ERGOBOX_P1_PIN          21
+#define ERGOBOX_P2_PIN          20
+#define ERGOBOX_P3_PIN          19
+#define ERGOBOX_P4_PIN          18
 
-#define ERGOBOX_K1_PIN          14
-#define ERGOBOX_K2_PIN          13
-#define ERGOBOX_K3_PIN          12
-#define ERGOBOX_K4_PIN          11
+#define ERGOBOX_K1_PIN          11
+#define ERGOBOX_K2_PIN          10
+#define ERGOBOX_K3_PIN          9
+#define ERGOBOX_K4_PIN          8
 
-#define ERGOBOX_L3_PIN          4
-#define ERGOBOX_R3_PIN          9
+#define ERGOBOX_L3_PIN          2
+#define ERGOBOX_R3_PIN          7
 
-#define ERGOBOX_START_PIN       8
-#define ERGOBOX_SELECT_PIN      5
-#define ERGOBOX_HOME_PIN        7
-#define ERGOBOX_CAPTURE_PIN     6
+#define ERGOBOX_START_PIN       6
+#define ERGOBOX_SELECT_PIN      3
+#define ERGOBOX_HOME_PIN        5
+#define ERGOBOX_CAPTURE_PIN     4
 
 #define ERGOBOX_REVERSE_PIN     -1
 #define ERGOBOX_TURBO_PIN       -1
 #define ERGOBOX_LSTICK_PIN      -1
 #define ERGOBOX_RSTICK_PIN      -1
 
-#define ERGOBOX_LED_PIN         41
+#define ERGOBOX_LED_PIN         29
 
 // :: ---
 
